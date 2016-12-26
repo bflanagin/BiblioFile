@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.js</file>
+        <file>openseed.js</file>
+        <file>Auth.qml</file>
+        <file>Library.qml</file>
+        <file>graphics/books.png</file>
+        <file>Book.qml</file>
+        <file>BibMenu.qml</file>
+        <file>graphics/add.svg</file>
+        <file>graphics/contact.svg</file>
+        <file>graphics/contextual-menu.svg</file>
+        <file>graphics/non-starred.svg</file>
+        <file>AddBook.qml</file>
+        <file>ShowBook.qml</file>
+        <file>Friend.qml</file>
+        <file>graphics/close.svg</file>
+        <file>graphics/share.png</file>
+        <file>graphics/wish.png</file>
+        <file>graphics/blank.png</file>
+        <file>graphics/OpenSeed.png</file>
+        <file>ShareOpts.qml</file>
+        <file>Pin.qml</file>
+        <file>graphics/share_ribbon.png</file>
+        <file>graphics/discard_ribbon.png</file>
+        <file>graphics/given_ribbon.png</file>
+        <file>graphics/edit.svg</file>
+        <file>graphics/book1.png</file>
+        <file>Friendinfo.qml</file>
+        <file>graphics/keyboard-caps-disabled.svg</file>
+        <file>graphics/addressbook.png</file>
+        <file>graphics/book2.png</file>
+        <file>Opts.qml</file>
+    </qresource>
+</RCC>
